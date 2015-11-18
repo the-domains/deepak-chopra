@@ -1,6 +1,6 @@
 name: Deepak Chopra
 favicon: null
-layout_spectrum: 0.8831459598150104
+layout_spectrum: 1
 typography_spectrum: 0.7328701531514525
 title: Deepak Chopra
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.47087151976302266
+  brandStrength: 0.5
   lightness: 0.04018618771806359
   saturation: 0.2745522321201861
   rhythmicContrast: 0.5932446282822639
